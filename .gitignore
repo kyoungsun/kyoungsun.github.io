@@ -1,0 +1,32 @@
+# Hugo build output
+/public/
+/resources/
+
+# Temporary files
+hugo_stats.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Node.js (optional if you install npm packages for theme customization)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Backup files
+*.bak
+*~
+
+# Optional: ignore deploy artifacts if any
+deploy.sh
+
